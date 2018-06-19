@@ -7,3 +7,4 @@ def fizz_buzz(int)
 end
 
 fizz_buzz(3)
+fizz_buzz(5)
